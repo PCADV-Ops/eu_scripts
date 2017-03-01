@@ -1,0 +1,43 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0"><dict><key>PayloadIdentifier</key><string>com.apple.mdm.profileserver.net.119dc860-697c-0134-5ff5-000c29691c5f.alacarte</string><key>PayloadRemovalDisallowed</key><false/><key>PayloadScope</key><string>System</string><key>PayloadType</key><string>Configuration</string><key>PayloadUUID</key><string>119dc860-697c-0134-5ff5-000c29691c5f</string><key>PayloadOrganization</key><string>PCADV</string><key>PayloadVersion</key><integer>1</integer><key>PayloadDisplayName</key><string>Settings for New Device Group</string><key>PayloadDescription</key><string>Certificates
+</string><key>PayloadContent</key><array><dict><key>PayloadType</key><string>com.apple.security.root</string><key>PayloadVersion</key><integer>1</integer><key>PayloadIdentifier</key><string>com.apple.mdm.profileserver.net.119dc860-697c-0134-5ff5-000c29691c5f.alacarte.certificate.9174e196-a517-4196-90b9-a4a2da8a793c</string><key>PayloadUUID</key><string>9174e196-a517-4196-90b9-a4a2da8a793c</string><key>PayloadEnabled</key><true/><key>Password</key><string>prevention</string><key>PayloadContent</key><data>MIIDADCCAeigAwIBAgIEVIpIFDANBgkqhkiG9w0BAQsFADAsMR0wGwYDVQQD
+DBRkZXBsb3ltZW50LnBjYWR2Lm5ldDELMAkGA1UEBhMCVVMwHhcNMTYwMjI0
+MjIxODQyWhcNMTgwMjIzMjIxODQyWjAsMR0wGwYDVQQDDBRkZXBsb3ltZW50
+LnBjYWR2Lm5ldDELMAkGA1UEBhMCVVMwggEiMA0GCSqGSIb3DQEBAQUAA4IB
+DwAwggEKAoIBAQDBKmcx+ovPWopHYvqqyDOWNT0sGB/PybyIZbMsQW9zRXYt
+XWAd1Vipa2u3h93zhbyFmBWkgi9LnZ8+rs8NnZ4y8beGuEe6FSaPEdq3w9CK
+k1H9bXLYUAxXppoDofWTqYueLxH2IXn10ilHEMgSq7oRsIKwpJZ9Emhtl0LI
+jWIuQms0kq4mzwrSJRKIpWLb0mCJevhDi2MMW29vQthcnCS1XtGQkf50B7cB
+08n0pLQtyIvGqeCxDahucuhVeygHPoEs64TjUdBuvpxL4WVREcMQeNrrvs7U
+nfjN2Vis+KaCe5ITDv8vu7xOpM9/CBgK1WZDtr/Fai6YaPAo0PCzn+WdAgMB
+AAGjKjAoMA4GA1UdDwEB/wQEAwICtDAWBgNVHSUBAf8EDDAKBggrBgEFBQcD
+ATANBgkqhkiG9w0BAQsFAAOCAQEAmBtvJ1mZWYROwfXrTlafg64vP4azt+SS
+KwyML5OKSTtH+wbuP+wwxPvkWgKHiQi8LdRYZpg7unO4u+V6c4Zh4iMy1IPD
+pEVv/4ME1gPmKPPLKSCZTA6a5EuaJekQ/VvAUHF2DNFmXwayn/97C8yCiwqx
+kQByFn4BEnvGJQzawCMxVW2gwHGJdbrNAgNw8I4WMDYoyOdIJxw2O60ZIQfW
+9AqqVjXfiyjAIlol81442sZi43vUQVKa7+7ZJemIVYHzoXoL+Y0ZXQgGoaIt
+Y7Ix+2uso/RO++tMY+FBZJPMYuYZOO44580NxNZ74/VX+sjEEQa7frQ/iqC9
+7eauuou9zg==
+</data></dict><dict><key>PayloadType</key><string>com.apple.security.pkcs1</string><key>PayloadVersion</key><integer>1</integer><key>PayloadIdentifier</key><string>com.apple.mdm.profileserver.net.119dc860-697c-0134-5ff5-000c29691c5f.alacarte.certificate.bde6f73e-e1fb-4b60-8905-21261fe0a802</string><key>PayloadUUID</key><string>bde6f73e-e1fb-4b60-8905-21261fe0a802</string><key>PayloadEnabled</key><true/><key>Password</key><string>prevention</string><key>PayloadContent</key><data>MIIDgjCCAmqgAwIBAgIEQg0DLjANBgkqhkiG9w0BAQsFADCBjjEoMCYGA1UE
+AwwfSW50ZXJtZWRpYXRlQ0FfRlJPRy5QQ0FEVi5PUkdfMTEOMAwGA1UECgwF
+UENBRFYxLTArBgNVBAsMJE1BQ09TWCBPcGVuRGlyZWN0b3J5IEludGVybWVk
+aWF0ZSBDQTEjMCEGCSqGSIb3DQEJARYUb3BlcmF0aW9uc0BwY2Fkdi5vcmcw
+HhcNMTYwMzExMjMwNzM2WhcNMTgwMzEyMjMwNzM2WjBLMRcwFQYDVQQDDA5m
+cm9nLnBjYWR2Lm9yZzELMAkGA1UEBhMCVVMxIzAhBgkqhkiG9w0BCQEWFG9w
+ZXJhdGlvbnNAcGNhZHYub3JnMIIBIjANBgkqhkiG9w0BAQEFAAOCAQ8AMIIB
+CgKCAQEAsoWpSlVzU/lVrzFh2sp4tFbbyWNyqO0nrPLu/e9rTETGl0HsTBkg
+caib1BkGk/aMz2sfV5teniemy3OSUzG9CRgPAFzlcXcyd94YAyQ2qzxstWtO
+qt31fhv7rGJpttGaWwN+pcLTXFRwwDvy0qVge9wfR0BtkDacUO3rO1xOsG7i
+6sWnBmkQeGBb5tHkZz18OVspksK8/Bpi55TYNE/XkHtcKMHvqqQ0F6Ndac+2
+ANlQwhPAmiyP7CHe07RGK5rKZLQePTeswZvC2xEqi0hLCZJxe52dZlRACxko
+putL0Axgk8qA7R7ptRwm3DVy4LQEzkKKI/MAgYcXHT+isVG4awIDAQABoyow
+KDAOBgNVHQ8BAf8EBAMCBaAwFgYDVR0lAQH/BAwwCgYIKwYBBQUHAwEwDQYJ
+KoZIhvcNAQELBQADggEBAKwOH6nSbA+Io93TZma9z7liUJV4LptZXXzXIsOT
+RxZcD/vEaQ60fCDdSFVGnPOPpBufraFnIeG1ZN+MmRALrqxI1zYD82DZzq3P
+6tsVP/3GzQxpHF5gDUoTU9Cd8vLaTkuUdtxch/+ynHx9/dNUGrxNwKCAu7No
+rchzTav40go+gqTnk8dC7LVYjfk5dxCa7RnzUbiRDzM9IuhH+JehULdL5Wrc
+kd8/N7pnX/XNeGBUkNCQ/qSREOEfiP63MjYzk8R67B0juhOCGWnTCmwYosEX
+kp2CssHPcnBgAoSjROnZ/E099SjqAfKu2oab34H7O+eO6bzC5/WXz6Ya5rk4
+qVs=
+</data></dict></array></dict></plist>
